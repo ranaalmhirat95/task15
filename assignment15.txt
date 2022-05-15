@@ -1,0 +1,8 @@
+* learn the Document Object Model (DOM):
+
+1. from javascript.info (Part 2): sections [1.1 - 1.8].
+
+* write JS code to transform the HTML file as illustrated in before.png and after.png.
+1. add a file called script.js to the "assignment14-code" folder and link it to the HTML file via a <script> tag.
+2. do not modify the HTML or CSS. everything must be done in JS only.
+3. push the "assignment14-code" folder only to github.
